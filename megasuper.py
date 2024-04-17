@@ -1,0 +1,10 @@
+from turtle import *
+pensize(circle)
+pensize(5)
+color('light blue')
+circle(100)
+color('green')
+circle(120)
+color('red')
+circle(130)
+exitonclick()
